@@ -45,7 +45,7 @@ body {
 .chatbox__support {
     display: flex;
     flex-direction: column;
-    background: #eee;
+    background: black;
     width: 300px;
     height: 600px;
     z-index: -123456;
@@ -86,7 +86,7 @@ body {
 }
 
 .messages__item {
-    background: #cc3;
+    background: black;
     max-width: 60.6%;
     width: fit-content;
 }
@@ -106,7 +106,7 @@ body {
 }
 
 .chatbox__support {
-    background: #ebebeb;
+    background: black;
     height: 600px;
     width: 460px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
@@ -117,7 +117,7 @@ body {
 /* HEADER */
 .chatbox__header {
  position: sticky;
-    background: #cc3;
+    background: green;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -159,7 +159,7 @@ body {
 
 .messages__item {
     margin-top: 10px;
-    background: #E0E0E0;
+    background: black;
     padding: 8px 12px;
     max-width: 70%;
 }
